@@ -1,5 +1,8 @@
 _repo: Nooks-and-Corners-of-Lancashire-and-Cheshire-A-Wayfarer-s-Notes-in-the-Palatine-Counties-Hist__51191
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51191-h/images/cover.jpg
 creator:
   author:
     agent_name: Croston, James
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '43125'
     url: http://www.gutenberg.org/2009/agents/43125
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51191#Nooks-and-Corners-of-Lancashire-and-Cheshire-A-Wayfarer-s-Notes-in-the-Palatine-Counties-Hist_
 gutenberg_issued: '2016-02-12'
 gutenberg_type: Text
 identifiers:
